@@ -70,15 +70,5 @@ P (Presenter)
 
 # 링크
 
-
-
-링크
-
-
-
-# 링크
-
-## 링크
-
 - [MVC, MVP, MVVM 비교](https://magi82.github.io/android-mvc-mvp-mvvm/) : 기존에 적용해 본 경험이 있는 MVC, MVVM과 같이 봐서 이해가 더 빠르다. 좋은 글이다.
 - [MVP 아키텍쳐 특징](https://medium.com/@saad.eloulladi/ios-swift-mvp-architecture-pattern-a2b0c2d310a3) : Raywenderich, youtube, 각종 블로그 글에 나오는 전형적인 `MVP` 패턴 예제이다. 깔끔하다
